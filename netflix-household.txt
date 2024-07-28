@@ -1,0 +1,10 @@
+# These IPs will only block household problem of Netflix,
+# and shouldn't interfere with any other network option,
+# such as AI generation, downloads, etc.
+# Pop up window? Report at:
+# https://github.com/ignaciocastro/a-dove-is-dumb/issues
+# Or follow updates at https://a.dove.isdumb.one/telegram
+# Last update: 2024-07-29 03:43 ITC
+0.0.0.0 android.prod.cloud.netflix.com
+0.0.0.0 ios.prod.cloud.netflix.com
+0.0.0.0 web.prod.cloud.netflix.com
