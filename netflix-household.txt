@@ -1,7 +1,0 @@
-# These IPs will only block household problem of Netflix,
-# and shouldn't interfere with any other network option,
-# such as AI generation, downloads, etc.
-# Last update: 2024-07-29 22:16 UTC
-0.0.0.0 android.prod.cloud.netflix.com
-0.0.0.0 ios.prod.cloud.netflix.com
-0.0.0.0 web.prod.cloud.netflix.com

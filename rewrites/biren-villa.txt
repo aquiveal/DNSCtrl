@@ -1,0 +1,17 @@
+npm.local openwebui.aurumor.com
+npm.local homelab.db94.xyz
+npm.local emby.db94.xyz
+npm.local adguard.local
+npm.local pfsense.local
+npm.local kuma.aquiveal.xyz
+npm.local nextcloud.aurumor.com
+npm.local vaultwarden.aurumor.com
+npm.local ha.local
+npm.local n8n.cabbery.com
+npm.local bsnl.local
+npm.local homelab.local
+npm.local portainer.local
+npm.local vaultwarden.db94.xyz
+npm.local erpnext.cabbery.com
+npm.local pve.local
+npm.local openwebui.db94.xyz

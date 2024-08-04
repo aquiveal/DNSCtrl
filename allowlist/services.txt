@@ -1,0 +1,13 @@
+@@||*.zee5.com^$important
+@@||*.pinterest.com^$important
+@@||*.elementor.com^$important
+@@||elementor.com^$important
+@@||*.notion.site^$important
+@@||*.notion.so^$important
+@@||uxdesign.cc^$important
+@@||googleadservices.com^$important
+@@||*.googleadservices.com^$important
+@@||googleads.g.doubleclick.net^$important
+@@||developers.googleblog.com^$important
+@@||*.erpnext.com^$important
+@@||frappeframework.com^$important
